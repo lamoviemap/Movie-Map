@@ -1,0 +1,53 @@
+<div class="card1" style="width: 18rem;">
+  <img class="card-img-top" src="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjklYDQhcHgAhUqi1QKHRiBCQoQjRx6BAgBEAU&url=https%3A%2F%2Fwww.goldenglobes.com%2Farticles%2F2017-musical-or-comedy-la-la-land&psig=AOvVaw1Vobyjt8Ee-u5wQ7K1ifW8&ust=1550433654184330" alt="Card image cap">
+  <div class="card-body1">
+    <h5 class="card-title">Angels Flight Railway - La La Land</h5>
+    <p class="card-text">...</p>
+    <a href="#" class="btn btn-primary">350 S Grand Ave, Los Angeles, CA 90071</a>
+  </div>
+</div>
+
+<div class="card2" style="width: 18rem;">
+  <img class="card-img-top" src="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi_kaLmjMHgAhUqrVQKHfKrD0gQjRx6BAgBEAU&url=%2Furl%3Fsa%3Di%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttp%253A%252F%252Fnightflight.com%252Fthe-taj-mahal-of-l-a-noir-revisiting-the-bradbury-building%252F%26psig%3DAOvVaw0u9EXwhf_4AbZDLMaLqfYY%26ust%3D1550435545165695&psig=AOvVaw0u9EXwhf_4AbZDLMaLqfYY&ust=1550435545165695" alt="Card image cap">
+  <div class="card-body2">
+    <h5 class="card-title">Bradybury Building - Blade Runner</h5>
+    <p class="card-text">...</p>
+    <a href="#" class="btn btn-primary">304 S Broadway, Los Angeles, CA 90013</a>
+  </div>
+</div>
+
+<div class="card3" style="width: 18rem;">
+  <img class="card-img-top" src="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi06_aBjcHgAhXK0J8KHU8FDYQQjRx6BAgBEAU&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDqmzsYpQkXI&psig=AOvVaw3twfs2HbyBjruYfhR-GcUm&ust=1550435627484529" alt="Card image cap">
+  <div class="card-body3">
+    <h5 class="Doc Brown's House - Back to the Future"></h5>
+    <p class="card-text">...</p>
+    <a href="#" class="btn btn-primary">4 Westmoreland Pl, Pasadena, CA 91103</a>
+  </div>
+</div>
+
+<div class="card4" style="width: 18rem;">
+  <img class="card-img-top" src="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjU4-j_jcHgAhXKxlQKHcLzCDIQjRx6BAgBEAU&url=https%3A%2F%2Fmaps.roadtrippers.com%2Fstories%2Fcelebrate-john-connors-30th-birthday-at-these-terminator-filming-locations&psig=AOvVaw34IiSb6CxC34dpDudbPwXq&ust=1550435906037171" alt="Card image cap">
+  <div class="card-body4">
+    <h5 class="card-title">Carrow's Restaurant - The Terminator</h5>
+    <p class="card-text">...</p>
+    <a href="#" class="btn btn-primary">815 Fremont Ave, South Pasadena, CA 91030</a>
+  </div>
+</div>
+
+<div class="card5" style="width: 18rem;">
+  <img class="card-img-top" src="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiv1q-lj8HgAhXiNX0KHe_gBloQjRx6BAgBEAU&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DST98xE3a6-s&psig=AOvVaw1Q31Eau90MBjy0qC6kpdPJ&ust=1550436172588757" alt="Card image cap">
+  <div class="card-body5">
+    <h5 class="card-title">Randy's Donuts - Iron Man</h5>
+    <p class="card-text">...</p>
+    <a href="#" class="btn btn-primary">805 W Manchester Blvd, Inglewood, CA 90301</a>
+  </div>
+</div>
+
+<div class="card6" style="width: 18rem;">
+  <img class="card-img-top" src="..." alt="Card image cap">
+  <div class="card-body6">
+    <h5 class="card-title">Point Dume - Planet of the Apes</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>

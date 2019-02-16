@@ -1,8 +1,0 @@
-<div class="card" style="width: 18rem;">
-  <img class="card-img-top" src="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjklYDQhcHgAhUqi1QKHRiBCQoQjRx6BAgBEAU&url=https%3A%2F%2Fwww.goldenglobes.com%2Farticles%2F2017-musical-or-comedy-la-la-land&psig=AOvVaw1Vobyjt8Ee-u5wQ7K1ifW8&ust=1550433654184330" alt="Card image cap">
-  <div class="card-body">
-    <h5 class="card-title">La La Land</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">350 S Grand Ave, Los Angeles, CA 90071</a>
-  </div>
-</div>
