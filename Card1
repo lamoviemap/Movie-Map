@@ -44,10 +44,19 @@
 </div>
 
 <div class="card6" style="width: 18rem;">
-  <img class="card-img-top" src="..." alt="Card image cap">
+  <img class="card-img-top" src="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwibw7DRkMHgAhUPJTQIHbPHAYAQjRx6BAgBEAU&url=https%3A%2F%2Fatomicredhead.com%2F2017%2F08%2F09%2Fthe-forbidden-zone%2F&psig=AOvVaw2VJ3zwVK8u5XS04iByAMj-&ust=1550436603841801" alt="Card image cap">
   <div class="card-body6">
     <h5 class="card-title">Point Dume - Planet of the Apes</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <p class="card-text">...</p>
+    <a href="#" class="btn btn-primary">Cliffside Dr & Birdview Ave, Malibu, CA 90265</a>
+  </div>
+</div>
+
+<div class="card7" style="width: 18rem;">
+  <img class="card-img-top" src="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwilgsvUkcHgAhWEHzQIHXXbCXkQjRx6BAgBEAU&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F144044888056668565%2F&psig=AOvVaw24P7nqkj5_HyN79jXnS3tc&ust=1550436872208358" alt="Card image cap">
+  <div class="card-body7">
+    <h5 class="card-title">El Matador Beach - The Notebook</h5>
+    <p class="card-text">...</p>
+    <a href="#" class="btn btn-primary">32350 Pacific Coast Hwy, Malibu, CA 90265</a>
   </div>
 </div>
